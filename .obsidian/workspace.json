@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "f2a10936f21cdedd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e07871d8129f317e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b57eaf342461c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contagem, Estatística e Probabilidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93dbb04df96b961d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vontade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca0da7f94714c29e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boolean Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f59f9f9b97a042c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newton-Raphson Approximation Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75fadb86d62062a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Well Ordered Induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "735a8d41a5273678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cos(1º).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f16b6b3929f4e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quintic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47da993985a7bdc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gauss-Jordan Elimination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a7bc1825be0dac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alley sobre Relatividade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86b3013a369ad608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Higher-order Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed99ae2fe3bc3d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contagem, Estatística e Probabilidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd60847f7b9efaeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Systems Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2de3ad4af3ad129",
+    "type": "split",
+    "children": [
+      {
+        "id": "01c633f41939f705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "679bb351dd38a123",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b7a86d61d043086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "816f8b8a06bbd6c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1afd590982b3831b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c431caa048747146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703f4357db7336cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General Systems Theory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91a045ddbc75f6fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General Systems Theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6122c8260110c00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f75c30cd4a752ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General Systems Theory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd60847f7b9efaeb",
+  "lastOpenFiles": [
+    "Contagem, Estatística e Probabilidade.md",
+    "Boolean Algebra.md",
+    "Bezier.md",
+    "Alley sobre Relatividade.md",
+    "Formalização da Ontologia de Lukács.md",
+    "General Systems Theory.md",
+    "t.md",
+    "Higher-order Operations.md",
+    "Gauss-Jordan Elimination.md",
+    "Quintic.md",
+    "cos(1º).md",
+    "Well Ordered Induction.md",
+    "Newton-Raphson Approximation Method.md",
+    "Vontade.md",
+    "Stable Matching.md",
+    "Knowledge.md",
+    "Probability.md"
+  ]
+}
